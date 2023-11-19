@@ -2,7 +2,7 @@
   "name": "web-reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://web-reactjs.github.io/web-reactjs/",
+  "homepage": "https://dungpt01101987.github.io/web-reactjs/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
